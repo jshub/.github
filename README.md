@@ -1,1 +1,1 @@
-![JavaScript](./assets/javascript.gif)
+![JavaScript Hub](./assets/javascript.gif)
