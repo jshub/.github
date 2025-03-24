@@ -18,8 +18,8 @@ After Microsoft released its own version of JavaScript (jScript), Netscape
 submitted JavaScript to the European Computer Manufacturers Associacion (ECMA),
 with the goal of creating a unified standard for the language. This standard has
 since been running under the name ECMAScript, which was adopted in version 6 in
-2015 (ES6 or ES2015);
+2015 (ES6 or ES2015).
 
 ECMAScript is a general purpose, cross platform, vendor-neutral programming 
 language. The standard includes the language syntax, semantics, and 
-libraries and complementary technologies that support the language
+libraries and complementary technologies that support the language.
