@@ -4,4 +4,4 @@ JavaScript is the world’s most widely used programming language, especially on
 
 Unlike HTML and CSS, which handle structure and style, JavaScript brings pages to life by updating content, responding to user actions, and shaping the interactive feel of the modern web.
 
-What started as a rushed prototype has grown into a language used almost everywhere, supported by a huge community of developers and a rich ecosystem of libraries, frameworks, and tools. That reach and versatility have made JavaScript the backbone of the web, and the starting point for countless developers around the world.
+What started as a small prototype built by a single developer has grown into a language used almost everywhere, supported by a huge community of developers and a rich ecosystem of libraries, frameworks, and tools. That reach and versatility have made JavaScript the backbone of the web, and the starting point for countless developers around the world.
